@@ -38,10 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/crossover3243/crossover3243/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
